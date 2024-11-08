@@ -1,0 +1,9 @@
+Nama tabel : Contact
+
+Coloumn :
+1. id
+2. nama
+3. email
+4. nomor
+5. alamat
+6. label
